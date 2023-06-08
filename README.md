@@ -22,5 +22,14 @@
 
 ## 物联网安全
 >[物联网概述](https://github.com/Tealalal/lesson/blob/main/%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8/%E7%AC%AC1%E7%AB%A0%20%E7%89%A9%E8%81%94%E7%BD%91%E6%A6%82%E8%BF%B0.md)
->[感知层技术1]()
->[感知层技术2]()
+
+>[感知层技术1](https://github.com/Tealalal/lesson/blob/main/%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8/%E7%AC%AC2%E7%AB%A0%20%E6%84%9F%E7%9F%A5%E5%B1%82%E6%8A%80%E6%9C%AF1.md)
+
+>[感知层技术2](https://github.com/Tealalal/lesson/blob/main/%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8/%E7%AC%AC2%E7%AB%A0%20%E6%84%9F%E7%9F%A5%E5%B1%82%E6%8A%80%E6%9C%AF2.md)
+
+>[网络层技术](https://github.com/Tealalal/lesson/blob/main/%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8/%E7%AC%AC2%E7%AB%A0%20%E6%84%9F%E7%9F%A5%E5%B1%82%E6%8A%80%E6%9C%AF2.md)
+
+>[应用层技术](https://github.com/Tealalal/lesson/blob/main/%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8/%E7%AC%AC2%E7%AB%A0%20%E6%84%9F%E7%9F%A5%E5%B1%82%E6%8A%80%E6%9C%AF2.md)
+
+>[物联网感知层安全](https://github.com/Tealalal/lesson/blob/main/%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8/%E7%AC%AC2%E7%AB%A0%20%E6%84%9F%E7%9F%A5%E5%B1%82%E6%8A%80%E6%9C%AF2.md)
+
