@@ -1,0 +1,9 @@
+Dft：离散傅里叶变换
+dct：Discrete Cosine Transform离散余弦变换
+Dwt：离散小波变换
+Dft：离散傅立叶变换
+PSNR（Peak Signal-to-Noise Ratio）峰值信噪比
+mos：Mean Opinion Score
+Has：人耳听觉系统
+hvs：人类视觉系统（Human Visual System
+jpeg：Joint photographic experts group
